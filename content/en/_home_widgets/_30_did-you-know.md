@@ -5,7 +5,6 @@ weight = 30
 
 ## Did you know?
 
-[**WARNING !!! A passer en anglais**] Le poids d’une page web a été multiplié par 115 entre 1995 et 2015 et n’a pas
-cessé d’augmenter depuis !
+The average page weight was multiplied by 115 between 1995 and 2015, and it hasn't stopped growing since! 
 
-[**En savoir plus sur l’empreinte environnementale du numérique**](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/)
+[**Learn more about the environmental footprint of the digital world**](https://www.greenit.fr/environmental-footprint-of-the-digital-world/)
