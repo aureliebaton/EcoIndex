@@ -3,11 +3,9 @@ id = "numbers"
 weight = 20
 +++
 
-## Today, global worldwide digital footprint represents
+## Today, the global footprint of technologies represents:
 
-[**WARNING !!! A passer en anglais**]
-
-- 4,2% de la consommation d’énergie primaire
-- 3,8% des émissions de gaz à effet de serre
-- 0,2% de la consommation d’eau
-- 5,6% de la consommation d’électricité
+- 4.2% of the primary energy consumption
+- 3.8% of global greenshouse gas emissions 
+- 0.2% of the water consumption 
+- 5.6% of the electricity consumption
